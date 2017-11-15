@@ -1,0 +1,6 @@
+<resources>
+	<string name="app_name">Karma</string>
+	<string name="action_settings">Settings</string>
+	<string name="default_progress">0%</string>
+	<color name="progress_arc_color">#7CA8ED</color>
+</resources>
